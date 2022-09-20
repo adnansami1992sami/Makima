@@ -1,0 +1,40 @@
+{
+  "files": {
+    "includes/database/index.js": [
+      {
+        "id": "99dc2271-d57e-44e7-bf08-ad7b7951904f",
+        "line": 34,
+        "version": 1,
+        "index": 633
+      },
+      {
+        "id": "f1ede120-d901-4d35-9dfe-5cebcd6690b2",
+        "line": 41,
+        "version": 1,
+        "index": 688
+      }
+    ],
+    "index.js": [
+      {
+        "id": "52f57824-a167-4c8c-89f5-7bdb6a144095",
+        "line": 10,
+        "version": 1,
+        "index": 305
+      },
+      {
+        "id": "a2c72ba2-8612-46a2-b518-83cf3dfc411e",
+        "line": 21,
+        "version": 1,
+        "index": 755
+      }
+    ],
+    "modules/commands/banner.js": [
+      {
+        "id": "5c3ec04d-4861-4769-ab7b-ecdb4a02c65f",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ]
+  }
+}
